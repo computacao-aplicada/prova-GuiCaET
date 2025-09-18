@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="junit-jupiter-api-5.9.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/junit-jupiter-api-5.9.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/junit-jupiter-engine-5.9.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/junit-platform-console-standalone-1.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/prova-GuiCaET/src" />
+      <root url="file://$PROJECT_DIR$/prova-GuiCaET/tests" />
+    </SOURCES>
+  </library>
+</component>
